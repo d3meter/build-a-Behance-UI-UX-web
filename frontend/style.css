@@ -37,3 +37,22 @@
     background-color: red;
 }
 
+
+.page1 {
+    display: flex;
+}
+
+
+.p1-background {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.p1-logo {
+    position: relative;
+    height: 15rem;
+    left: 230px;
+    bottom: 180px;
+}
